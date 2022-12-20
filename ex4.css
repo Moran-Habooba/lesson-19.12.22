@@ -1,0 +1,18 @@
+.el1 {
+  background-color: turquoise;
+}
+.el2 div.a {
+  background-color: purple;
+  display: inline-block;
+  width: 20%;
+  height: 70px;
+}
+.el2 div.b {
+  background-color: pink;
+  display: inline-block;
+  width: 79%;
+  height: 70px;
+}
+.el3 p.c {
+  background-color: fuchsia;
+}
